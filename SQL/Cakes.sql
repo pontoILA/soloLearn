@@ -1,0 +1,1 @@
+SELECT * FROM CAKES ORDER BY  calories LIMIT 3;
